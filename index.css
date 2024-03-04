@@ -1,0 +1,11 @@
+.card{
+    text-align: center;
+    background: linear-gradient(to right, rgb(196, 195, 195), grey);
+    color: white;
+}
+.col-lg-4{
+    margin-top: 25px;
+}
+.card-header{
+    background-color: black;
+}
